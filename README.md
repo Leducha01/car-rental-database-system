@@ -15,11 +15,11 @@ Projekt wykorzystuje mechanizmy automatyzacji po stronie serwera bazy danych:
 * **Widoki analityczne (Views):** Zestaw widoków (np. `widokjoin`, `widokhaving`) przygotowanych do szybkiego generowania raportów i złączeń danych.
 
 ---
-### 📊 Model ERD
+###  Model ERD
 ![Diagram ERD](erd_diagram.png)
 
 ---
-### 🛠️ Jak uruchomić?
+### Jak uruchomić?
 1. Pobierz plik `car_rental_database.sql`.
 2. Zaimportuj go do środowiska MariaDB/MySQL (np. przez phpMyAdmin lub MySQL Workbench).
 3. Skrypt automatycznie utworzy strukturę tabel, relacje oraz zasili bazę danymi testowymi.
